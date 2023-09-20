@@ -2,30 +2,36 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      我是一名来自山西太原的深大学生，目前就读计算机技术专业，希望通过自身努力，争取更大进步，让自己以后的生活更美好！
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>基本信息</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li>学号：2310273032</li>
+      <li>姓名：杨轶超</li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>学习经历</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li>
+        <table cellpadding="5" cellspacing="5">
+          <tr align="left">
+            <td>2019.09-2023.06</td> 
+            <td>广西师范大学</td> 
+            <td>计算机科学与技术 </td>
+            <td>工学学士</td>
+          </tr>
+          <tr align="left">
+            <td>2023.09-至今</td> 
+            <td>深圳大学</td>
+            <td>计算机技术</td>
+            <td>硕士在读</td>
+          </tr>
+        </table>
+      </li>
     </ul>
-    <h3>Ecosystem</h3>
+    <h3>联系方式</h3>
     <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
+      <li>QQ：1150696064</li>
+      <li>E-mail：2310273032@email.szu.edu.cn</li>
     </ul>
   </div>
 </template>

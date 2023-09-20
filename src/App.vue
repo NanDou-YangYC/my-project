@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Vue logo" src="./assets/img1.jpg" height="200" width="200">
+  <HelloWorld msg="欢迎来到我的个人主页"/>
 </template>
 
 <script>
